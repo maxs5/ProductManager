@@ -1,8 +1,8 @@
-package ru.netology.domain;
+package domain;
 
 import org.junit.jupiter.api.Test;
 import manager.ProductManager;
-import ru.netology.domain.repository.ProductRepository;
+import repository.ProductRepository;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 

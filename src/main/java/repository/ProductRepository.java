@@ -1,6 +1,6 @@
-package ru.netology.domain.repository;
+package repository;
 
-import ru.netology.domain.Product;
+import domain.Product;
 
 public class ProductRepository {
     private Product[] items = new Product[0];
